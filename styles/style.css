@@ -19,13 +19,27 @@ p {
 
 /*   background image add korar  jonno aivabe   likhte  hoy = background-image: url('house.png');  
 likhte hoy  css  a  maje   style.css   a     */ 
-.shofikul{
+/* .shofikul{
  height: 900px;
 width: 900px; 
-background-image: url('house.png');
+/* background-image: url('house.png'); */
 align-items: left;
 background-repeat: no-repeat;
 display: flex;
 flex-direction: column;
 mask-repeat: 2;
+} */
+
+
+#pic , p {
+/* text-align: right; */
+height: 200;
+width: 150;
+border: 2px solid blue;
+margin: 2px solid red;
+padding: 5px;
+/* display: flex; */
+/* flex-direction: column; */
+
 }
+
