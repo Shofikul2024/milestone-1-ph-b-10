@@ -1,0 +1,27 @@
+h1 {
+    background-color: aquamarine;
+      pading: 5px;
+    margin: 5px;
+     /* align-items: center; */
+     justify-content: center;
+     text-align: center;
+}
+
+p {
+    color: blue;
+    pading: 5px;
+    margin: 5px;
+    align-items: center;
+}
+
+
+.shofikul{
+ height: 900px;
+width: 900px; 
+background-image: url('house.png');
+align-items: left;
+background-repeat: no-repeat;
+display: flex;
+flex-direction: column;
+mask-repeat: 2;
+}
