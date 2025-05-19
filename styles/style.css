@@ -12,6 +12,7 @@ p {
     pading: 5px;
     margin: 5px;
     align-items: center;
+    text-decoration: blink;
 }
 
 
@@ -43,3 +44,19 @@ padding: 5px;
 
 }
 
+
+
+.right {
+
+/* text-align: right;  */
+
+
+/* display: flex;
+flex-direction: column;
+ */
+
+
+ /* align-items: center; */
+ /* text-indent: 250px; */
+ vertical-align: middle;
+}
