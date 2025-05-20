@@ -60,3 +60,14 @@ flex-direction: column;
  /* text-indent: 250px; */
  vertical-align: middle;
 }
+
+img{
+
+  width: 250px;
+  height: 200px;
+  /* text-align: right; */
+/* justify-content: center; */
+/* align-items: center; */
+display:flex ;
+text-indent: initial;
+}  
