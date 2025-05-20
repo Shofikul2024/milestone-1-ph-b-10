@@ -1,0 +1,29 @@
+nav > ul > li {
+
+    display: inline;
+}
+
+
+/* aivabew   nav tag  ar  maje  theke anchor tag ar maje 
+
+kaj kora jabe  jhankar  sir 
+*/
+
+ 
+nav > ul > li > a {
+
+text-decoration:none ;
+margin-right: 581px;
+ 
+}  
+
+
+
+
+/*   
+
+nav li > a {
+
+text-decoration: none ;
+
+} */
