@@ -18,6 +18,15 @@ h1{
     /* width: 50px; */
     width: 700px;
     border-radius: 50%;
+    /* text-align: center; */
+
+    /* justify-content: center; */
+
+/* align-items: center; */
+/* display: inline; */
+display: block;
+/* display: flex; */
+
 }
 
 
@@ -27,3 +36,15 @@ border-radius: 30px;
 
 }
 
+
+#idcontent{
+
+border: 5px solid red;
+margin: 100px;
+padding: 100px;
+height: 500px;
+padding-top: 50;
+width: 50;
+
+
+}
