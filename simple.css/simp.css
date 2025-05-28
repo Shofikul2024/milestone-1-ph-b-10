@@ -1,0 +1,13 @@
+a{ text-decoration: none;
+/* align-items: center; */
+
+/* text-align: justify; */
+
+
+}
+
+header{
+
+    justify-content: space-between
+/* display:flex ; */
+}
