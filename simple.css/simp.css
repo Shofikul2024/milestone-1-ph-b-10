@@ -1,3 +1,20 @@
+.navbar li {
+
+
+    display: flex;
+text-align: center;
+    justify-content: space-between;
+
+}
+/* 
+ul > li > a {
+
+
+    justify-content: space-between;
+} */
+
+
+
 a{ text-decoration: none;
 /* align-items: center; */
 
@@ -6,8 +23,6 @@ a{ text-decoration: none;
 
 }
 
-header{
 
-    justify-content: space-between
-/* display:flex ; */
-}
+
+ 
